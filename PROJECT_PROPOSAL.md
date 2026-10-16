@@ -12,7 +12,7 @@ Awrad Alshammeri - 2231147283
 
 Haya Almutairi - 2231135665
 
-GitHub repository URL - 
+GitHub repository URL - https://github.com/Malmutairi3055/project-proposal
 
 
 **Project summary** - The University Club Registration System is a web-based platform that enables students to discover university clubs and submit membership requests, club leaders to review and manage applications, and administrators to maintain club information.
