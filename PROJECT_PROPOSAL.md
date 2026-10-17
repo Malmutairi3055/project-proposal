@@ -37,7 +37,11 @@ The system will have three main actors:
 | Existing Process or Solution | Useful Features | Limitations for Our Users | Source |
 |---|---|---|---|
 | Current Process | Paper forms, email, messaging groups, and spreadsheets provide simple ways to share information and collect membership requests. | Information may be scattered across multiple channels, and tracking application statuses may require manual follow-up. | Observation |
-| Google Forms | Allows organizations to create online forms, collect responses, and review submissions using spreadsheets. | A basic forms-and-spreadsheet workflow does not provide the same integrated club directory and role-based membership decision process. | https://support.google.com/docs/answer/6281888 |
+| Google Forms | Allows organizations to create online forms, collect responses, and review submissions using spreadsheets. | A basic forms-and-spreadsheet workflow does not provide the same integrated club directory and role-based membership decision process. | https://support.google.com/docs/answer/6281888 
+| Anthology Engage | Provide a club directory, membership request management, and leader approval tools. | Its broader campus-management features go beyond the limited scope of our proposed prototype. | Anthology Engage documentation |
+
+## What We Learned: 
+Analyzing existing options shows that a targeted streamlined system for university club management is needed. Manual processes and tools like Google Forms do not have built-in role-based workflows or a central directory. Enterprise platforms such as Anthology Engage offer features that are more than enough for a focused academic prototype. Therefore, building a lightweight web application, for university club management bridges this gap by offering an intuitive central solution without unnecessary complexity.
 
 ## 4.4 Proposed Solution and Justification
 The University Club Registration System will provide a central web interface where students can browse active clubs and view relevant information, including club descriptions and membership details. Students will be able to submit membership requests and view their statuses. Club leaders will access requests for their assigned clubs and record approval or rejection decisions. Administrators will manage the club directory by creating, editing, or deactivating listings.
@@ -106,6 +110,8 @@ This system will make the registration process easier by keeping club informatio
 | NFR-01 | Performance | Using a demonstration dataset of up to 20 club listings and 100 membership requests, the system shall display club-directory search results within two seconds for at least 95% of 20 repeated test searches on the agreed test environment. | Must |
 | NFR-02 | Usability and Accessibility | At least four out of five volunteer testers using fictional accounts shall complete the student application workflow without assistance. The main forms shall also be operable using a keyboard during a documented manual test. | Should |
 | NFR-03 | Security and Privacy | All documented tests attempting to access another student's requests or manage requests for an unassigned club shall be denied. The prototype shall use only fictional or anonymised data. | Must |
+| NFR-04 | Compatibility | The website should work well. Be easy to use on all the usual modern web browsers like Google Chrome, Mozilla Firefox, Apple Safari, and Microsoft Edge. | Should |
+| NFR-05 | Membership request states (Pending, Approved, Rejected, Withdrawn) will be maintained in a consistent manner by the system even if the session is abruptly terminated. | Must |
 
 ## 4.7 Development Approach
 The team will adopt an incremental development approach. The first increment will establish the project structure, user roles, and club directory. The second will implement membership requests and status tracking. The third will introduce club-leader decisions and administrator management. The final increment will focus on access control, testing, defect correction, and presentation preparation.
