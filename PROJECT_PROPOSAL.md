@@ -132,3 +132,11 @@ We chose incremental development because it allows us to build and test the syst
 ChatGPT was used to help organize the proposal, draft requirements and workflows, identify possible comparison products, and improve clarity and structure.
 
 The team reviewed and edited the AI-generated content to make sure it matched the project requirements and assignment instructions.
+
+### Team Contributions
+
+| Team Member | Contribution |
+|---|---|
+| Muneerah Almutairi | Team information (4.1), problem and users (4.2), team plan and risks (4.8). |
+| Awrad Alshammeri | Existing solutions (4.3), scope and workflows (4.5), initial requirements (4.6). |
+| Haya Almutairi | Proposed solution and justification (4.4), development approach (4.7), sources, AI use, and contributions (4.9). |
