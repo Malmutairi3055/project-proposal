@@ -44,6 +44,8 @@ The system will have three main actors:
 ## 4.4 Proposed Solution and Justification
 The University Club Registration System will provide a central web interface where students can browse active clubs and view relevant information, including club descriptions and membership details. Students will be able to submit membership requests and view their statuses. Club leaders will access requests for their assigned clubs and record approval or rejection decisions. Administrators will manage the club directory by creating, editing, or deactivating listings.
 
+This system will make the registration process easier by keeping club information and membership requests in one place. Unlike using separate forms or emails, students can check their application status directly. The project is suitable for three students because it focuses on a small number of main features. We can also use existing web development tools to build a simple prototype during the semester.
+
 ## 4.5 Scope and Workflows
 ### Scope
 
@@ -110,6 +112,8 @@ The University Club Registration System will provide a central web interface whe
 ## 4.7 Development Approach
 The team will adopt an incremental development approach. The first increment will establish the project structure, user roles, and club directory. The second will implement membership requests and status tracking. The third will introduce club-leader decisions and administrator management. The final increment will focus on access control, testing, defect correction, and presentation preparation.
 
+We chose incremental development because it allows us to build and test the system step by step. Since some requirements may change after receiving feedback, this approach makes it easier to improve the system without changing everything. It also helps us manage our time and identify problems early.
+
 ## 4.8 Team Plan and Risks
 
 ### Coordinator Roles
@@ -126,3 +130,5 @@ The team will adopt an incremental development approach. The first increment wil
 
 ### Generative AI Use Disclosure
 ChatGPT was used to help organize the proposal, draft requirements and workflows, identify possible comparison products, and improve clarity and structure.
+
+The team reviewed and edited the AI-generated content to make sure it matched the project requirements and assignment instructions.
