@@ -4,7 +4,7 @@ SWE301
 
 # University Club Registration System
 
-Group Letter - 
+Group Letter - A
 
 Muneerah Almutairi - 2231124933
 
