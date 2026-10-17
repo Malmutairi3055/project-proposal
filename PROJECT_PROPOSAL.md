@@ -111,7 +111,7 @@ This system will make the registration process easier by keeping club informatio
 | NFR-02 | Usability and Accessibility | At least four out of five volunteer testers using fictional accounts shall complete the student application workflow without assistance. The main forms shall also be operable using a keyboard during a documented manual test. | Should |
 | NFR-03 | Security and Privacy | All documented tests attempting to access another student's requests or manage requests for an unassigned club shall be denied. The prototype shall use only fictional or anonymised data. | Must |
 | NFR-04 | Compatibility | The website should work well. Be easy to use on all the usual modern web browsers like Google Chrome, Mozilla Firefox, Apple Safari, and Microsoft Edge. | Should |
-| NFR-05 | Membership request states (Pending, Approved, Rejected, Withdrawn) will be maintained in a consistent manner by the system even if the session is abruptly terminated. | Must |
+| NFR-05 | Data Integrity | Membership request states (Pending, Approved, Rejected, Withdrawn) will be maintained in a consistent manner by the system even if the session is abruptly terminated. | Must |
 
 ## 4.7 Development Approach
 The team will adopt an incremental development approach. The first increment will establish the project structure, user roles, and club directory. The second will implement membership requests and status tracking. The third will introduce club-leader decisions and administrator management. The final increment will focus on access control, testing, defect correction, and presentation preparation.
