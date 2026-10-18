@@ -128,6 +128,23 @@ We chose incremental development because it allows us to build and test the syst
 | Requirements and Design Coordinator | Awrad Alshammeri  | Coordinates problem validation, requirements gathering, workflow modelling, and initial interface and data design. |
 | Implementation and Quality Coordinator | Haya Almutairi | Coordinates implementation planning, integration, testing, defect tracking, and prototype quality checks. |
 
+### Milestone Plan
+
+| Milestone | Main Planned Output | Coordinator |
+|---|---|---|
+| 1. Proposal | Project proposal and initial requirements | Muneerah |
+| 2. Requirements and Models | Requirements and workflow models | Awrad |
+| 3. Design and Initial Prototype | Interface design and initial prototype | Haya |
+| 4. Final Prototype, Testing, and Presentation | Final tested prototype and presentation | Muneerah |
+
+### Three Risks
+
+| Risk | Impact | Planned Response |
+|---|---|---|
+| Requirements may change after development starts | High | Review requirements and workflows before implementation. |
+| Limited development time | High | Prioritize essential features and develop the system incrementally. |
+| Unauthorized access to membership requests | High | Use role-based access control and test user permissions.
+
 ## 4.9 Sources, AI Use, and Contributions
 ### References
     Google. (n.d.). How to use Google Forms. Google Docs Editors Help. https://support.google.com/docs/answer/6281888
