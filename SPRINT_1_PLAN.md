@@ -88,7 +88,7 @@ During Sprint 1, each team member will have a role in planning and reviewing the
 
 - **Awrad Alshammeri:** Will lead issues #2 and #3 by reviewing the requirements for active club listings and membership request submission. She will also review the related acceptance criteria.
 - **Muneerah Almutairi:** Will lead issues #5 and #7 by reviewing the requirements for club leader request viewing and club directory management. She will also coordinate the sprint and review the progress of the selected issues.
-- **Haya Almutairi:** Will review the selected Sprint 1 requirements, focusing on input validation, user permissions, and possible testing considerations. Her assigned issues #8, #9, and #10 will remain in the backlog for future work.
+- **Haya Almutairi:** Will review the acceptance criteria for Sprint 1 issues #2, #3, #5, and #7, focusing on input validation, user permissions, and testing considerations. She will provide feedback to the issue owners. Her assigned issues #8, #9, and #10 will remain in the backlog for future work.
   
 ## 8. Project Links
 
