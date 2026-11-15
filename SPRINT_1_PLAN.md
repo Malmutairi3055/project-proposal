@@ -97,3 +97,9 @@ https://github.com/Malmutairi3055/project-proposal
 
 **GitHub Project Board:**  
 https://github.com/users/Malmutairi3055/projects/1
+
+## 9. AI Use Disclosure
+
+ChatGPT was used to help organize the GitHub backlog, draft issue descriptions and acceptance criteria, and improve the clarity and structure of the Sprint 1 plan.
+
+The team reviewed the AI-assisted content against the submitted Assignment 1 proposal and the Assignment 2 instructions. The final content was checked for consistency with the project requirements.
