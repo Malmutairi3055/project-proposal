@@ -22,9 +22,9 @@ For Sprint 1, we selected four issues: #2 for active club listings, #3 for membe
 
 ## 1. Sprint Goal
 
-The goal of Sprint 1 is to define and review the initial requirements for the University Club Registration System. The sprint focuses on active club listings, membership request submission, club leader request viewing, and club directory management.
+The goal of Sprint 1 is to produce a reviewed and clearly documented set of initial requirements and acceptance criteria for four selected features of the University Club Registration System: active club listings, membership request submission, club leader request viewing, and club directory management.
 
-## 2. Team Members and Responsibilities
+## 2. Overall Backlog Responsibilities
 
 | Team Member | Assigned Issues | Responsibilities |
 |---|---|---|
@@ -42,6 +42,8 @@ The following four issues were selected for Sprint 1:
 | [#3 – Define Membership Request Submission](https://github.com/Malmutairi3055/project-proposal/issues/3) | Workflow 1 / FR-03 | Awrad Alshammeri | Clear requirements and acceptance criteria for submitting membership requests. |
 | [#5 – Define Club Leader Request Viewing](https://github.com/Malmutairi3055/project-proposal/issues/5) | Workflow 2 / FR-05 | Muneerah Almutairi | Clear requirements and acceptance criteria for viewing pending membership requests. |
 | [#7 – Define Club Directory Management](https://github.com/Malmutairi3055/project-proposal/issues/7) | Workflow 3 / FR-07 | Muneerah Almutairi | Clear requirements and acceptance criteria for managing club listings. |
+
+All four selected issues are assigned to Sprint 1 and have the status Ready. The remaining six issues will stay in the Backlog for future work.
 
 ## 4. Remaining Backlog
 
@@ -80,7 +82,7 @@ The team uses the following GitHub Project statuses:
   
 ## 7. Expected Outcome
 
-By the end of Sprint 1, the team aims to have reviewed and clearly documented the requirements for the selected issues, providing a foundation for the next development increment.
+By the end of Sprint 1, the team aims to have reviewed the requirements and acceptance criteria for issues #2, #3, #5, and #7. The reviewed requirements will provide a clear foundation for the design, implementation, and testing activities in future development increments.
 
 ## Contribution Plan
 
